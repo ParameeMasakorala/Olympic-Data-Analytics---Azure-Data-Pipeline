@@ -16,13 +16,7 @@ This project was fully self-learned, demonstrating the integration of multiple A
 
 ## Technologies Used:
 
-Azure Data Factory
-
-Azure Data Lake Gen2
-
-Azure Databricks
-
-Azure Synapse Analytics
+Azure Services ( Azure Data Factory, Azure Data Lake Gen2, Databricks, Synapse Analytics )
 
 Power BI
 
